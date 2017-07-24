@@ -1,0 +1,13 @@
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\SignalRTest2.exe.config
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\SignalRTest2.exe
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\SignalRTest2.pdb
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\obj\Debug\SignalRTest2.csprojResolveAssemblyReference.cache
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\obj\Debug\SignalRTest2.Form1.resources
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\obj\Debug\SignalRTest2.Properties.Resources.resources
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\obj\Debug\SignalRTest2.csproj.GenerateResource.Cache
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\obj\Debug\SignalRTest2.exe
+C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest2\obj\Debug\SignalRTest2.pdb
