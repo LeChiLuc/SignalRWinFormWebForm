@@ -11,3 +11,16 @@ C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest\bin
 C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest\bin\Debug\Newtonsoft.Json.dll
 C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
 C:\Users\luclc\documents\visual studio 2017\Projects\SignalRTest\SignalRTest\bin\Debug\Newtonsoft.Json.xml
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\SignalRTest.exe.config
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\SignalRTest.exe
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\SignalRTest.pdb
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\Newtonsoft.Json.dll
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\bin\Debug\Newtonsoft.Json.xml
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\obj\Debug\SignalRTest.csprojResolveAssemblyReference.cache
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\obj\Debug\SignalRTest.Form1.resources
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\obj\Debug\SignalRTest.Properties.Resources.resources
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\obj\Debug\SignalRTest.csproj.GenerateResource.Cache
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\obj\Debug\SignalRTest.exe
+D:\BinhAnh\_Project\SignalRWinFormWebForm\SignalRTest\obj\Debug\SignalRTest.pdb

@@ -37,6 +37,11 @@ namespace SignalRTest
         private void button1_Click(object sender, EventArgs e)
         {
             this.m_Proxy.Invoke("broadcastMessage", this.textBox1.Text,this.textBox2.Text,this.textBox3.Text);
+
+            textBox1.Text = null;
+            textBox2.Text = null;
+            textBox3.Text = null;
         }
+
     }
 }
