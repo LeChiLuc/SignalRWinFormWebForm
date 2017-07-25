@@ -13,8 +13,8 @@ namespace SignalRTest2
 {
     public partial class Form1 : Form
     {
-        HubConnection m_Connection;
-        IHubProxy m_Proxy;
+        HubConnection Connection;
+        IHubProxy Proxy;
         public Form1()
         {
             InitializeComponent();
@@ -22,11 +22,11 @@ namespace SignalRTest2
         }
         private void initHub()
         {
-            this.m_Connection = new HubConnection("http://localhost:51070/signalr/hubs");
-            this.m_Proxy = this.m_Connection.CreateHubProxy("MyHub");
-            this.m_Proxy.On<string,string,string>("pushMessage", (strMessage,name,price) => SetText(strMessage,name,price));
-            this.m_Connection.Start().Wait();
-            this.textBox1.Text = "State" + this.m_Connection.State.ToString() + "; transport=" + this.m_Connection.Transport.Name;
+            this.Connection = new HubConnection("http://localhost:51070/signalr/hubs");
+            this.Proxy = this.Connection.CreateHubProxy("MyHub");
+            this.Proxy.On<string,string,string>("pushMessage", (strMessage,name,price) => SetText(strMessage,name,price));
+            this.Connection.Start().Wait();
+            this.textBox1.Text = "State" + this.Connection.State.ToString() + "; transport=" + this.Connection.Transport.Name;
         }
 
         delegate void SetTextCallback(string strText, string strText2,string strText3);
