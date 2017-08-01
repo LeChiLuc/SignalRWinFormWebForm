@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRTest", "SignalRTest\SignalRTest.csproj", "{2E8A71B8-996D-40D7-BB28-082D0A4DB5B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{980AC023-6E69-4067-9DFC-91EE4AD80567}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer", "WebClient\WebServer.csproj", "{980AC023-6E69-4067-9DFC-91EE4AD80567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRTest2", "SignalRTest2\SignalRTest2.csproj", "{82F529DE-A9F0-4C8D-A116-4E4220981049}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{A2225238-AF2D-420D-AEE7-8B56E31364FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{980AC023-6E69-4067-9DFC-91EE4AD80567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{980AC023-6E69-4067-9DFC-91EE4AD80567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{980AC023-6E69-4067-9DFC-91EE4AD80567}.Release|Any CPU.Build.0 = Release|Any CPU
-		{82F529DE-A9F0-4C8D-A116-4E4220981049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82F529DE-A9F0-4C8D-A116-4E4220981049}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82F529DE-A9F0-4C8D-A116-4E4220981049}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82F529DE-A9F0-4C8D-A116-4E4220981049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2225238-AF2D-420D-AEE7-8B56E31364FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2225238-AF2D-420D-AEE7-8B56E31364FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2225238-AF2D-420D-AEE7-8B56E31364FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2225238-AF2D-420D-AEE7-8B56E31364FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

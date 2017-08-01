@@ -1,0 +1,9 @@
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\BinhAnh\_Project\SignalRWinFormWebForm\ConsoleApp\obj\Debug\ConsoleApp.pdb

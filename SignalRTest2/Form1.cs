@@ -23,7 +23,7 @@ namespace SignalRTest2
         private void initHub()
         {
             this.Connection = new HubConnection("http://localhost:51070/signalr/hubs");
-            this.Proxy = this.Connection.CreateHubProxy("MyHub");
+            this.Proxy = this.Connection.CreateHubProxy("myHub");
             this.Proxy.On<string,string,string>("pushMessage", (strMessage,name,price) => SetText(strMessage,name,price));
             this.Connection.Start().Wait();
             this.textBox1.Text = "State" + this.Connection.State.ToString() + "; transport=" + this.Connection.Transport.Name;

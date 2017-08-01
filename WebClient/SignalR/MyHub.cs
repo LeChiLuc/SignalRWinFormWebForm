@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Microsoft.AspNet.SignalR;
 
-namespace WebClient.SignalR
+namespace WebServer.SignalR
 {
     public class MyHub : Hub
     {

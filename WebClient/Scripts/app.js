@@ -1,6 +1,6 @@
-﻿var g_Hub = $.connection.myHub;
+﻿var hub = $.connection.myHub;
 
-g_Hub.client.pushMessage = function (strMessage, name, price) {
+hub.client.pushMessage = function (strMessage, name, price) {
     console.info(strMessage, name, price);
 
     var html = '';
@@ -14,5 +14,5 @@ g_Hub.client.pushMessage = function (strMessage, name, price) {
 }
 
 $.connection.hub.start().done(function () {
-    console.info('connected,transport=' + g_Hub.connection.transport.name);
+    console.info('connected,transport=' + hub.connection.transport.name);
 })
